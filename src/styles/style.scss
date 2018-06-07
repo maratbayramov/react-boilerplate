@@ -1,0 +1,14 @@
+:global {
+  html, body, #app {
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+  }
+
+  html {
+    font-size: 62.5%; // 1rem = 10px
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+	  -moz-osx-font-smoothing: grayscale;
+  }
+}
